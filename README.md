@@ -1,2 +1,2 @@
-# Coursera_Capstone
-IBM Data Science Capstone Project
+# Main Project
+Feel free to use for reference. 
